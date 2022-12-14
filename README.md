@@ -22,5 +22,17 @@ Here are some ideas to get you started:
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
+       
+  
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: jgtomasin@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/jo%C3%A3o-gabriel-mendes-3a7477223/">
+      <img width="25" src="linkedin.svg">
+    </a>
+    <a href = "https://www.instagram.com/jg_mendees/">
+      <img width="25" src="instagram.png">
+    </a>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
