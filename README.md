@@ -1,8 +1,8 @@
 ### Olá! eu sou João Gabriel Tomasin
 
 
-- 🔭 Estou a procura da primeira oportunidade de agregar meu valor na sua empresa
-- 🌱 Estudando React, Typescript
+- 🔭 Formado pela Udem
+- 🌱 Full stake
 - 😄 Pronouns: ele/dele
 <div>
 
