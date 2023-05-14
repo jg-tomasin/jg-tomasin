@@ -1,8 +1,8 @@
 ### Olá! eu sou João Gabriel Tomasin
 
 
-- 🔭 Formado pela Udem
-- 🌱 Full stake
+- 🔭 Formado pela Udemy, Escola Conquer
+- 🌱 Full stake, Negociação e Influencia, liderança.
 - 😄 Pronouns: ele/dele
 <div>
 
