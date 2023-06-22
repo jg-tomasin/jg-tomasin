@@ -2,7 +2,7 @@
 
 
 - 🔭 Formado pela Udemy, Escola Conquer
-- 🌱 Full stak, Negociação e Influencia, liderança.
+- 🌱 Full Stack, Negociação e Influencia, liderança. experiência no Front end em Javascript, e tenho formação em PHP, Mysql, Ajax, Wordpress, Jquery, estudando Python.
 - 😄 Pronouns: ele/dele
 <div>
 
