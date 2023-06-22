@@ -2,7 +2,7 @@
 
 
 - 🔭 Formado pela Udemy, Escola Conquer
-- 🌱 Full stake, Negociação e Influencia, liderança.
+- 🌱 Full stak, Negociação e Influencia, liderança.
 - 😄 Pronouns: ele/dele
 <div>
 
