@@ -11,7 +11,6 @@
 </div>
 <br>
 
-Here are some ideas to get you started:
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
