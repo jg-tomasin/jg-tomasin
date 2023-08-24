@@ -2,7 +2,7 @@
 
 
 - 🔭 Formado pela Udemy, Escola Conquer
-- 🌱 Back-End, Negociação e Influencia, liderança. experiência no Front end em Javascript, e tenho formação em Node.JS, JavaScript, SQL, estudando Python & Docker.
+- 🌱 Back-End, Negociação e Influencia, liderança. experiência no Full-Stack em Javascript, e tenho formação em Node.JS, JavaScript, SQL, estudando Python & Docker.
 - 😄 Pronouns: ele/dele
 <div>
 
